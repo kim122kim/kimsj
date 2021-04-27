@@ -6,7 +6,7 @@ body {
 }
 
 /* 헤더 */
-header { background-image: url(/assets/img/hero-light.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; }
+header { background-image: url(/assets/img/profile1.jpg); background-repeat: no-repeat; background-position: center; background-size: cover; }
 header .container { padding: 16rem 4rem; }
 header .container h1 {
   letter-spacing: -0.05em;
@@ -82,7 +82,7 @@ header .container h1 {
 /* modal */
 .modal-title { font-size: 1.2rem; font-weight: 500; letter-spacing: -0.06rem; }
 .modal-desc { padding : 1.563rem 0.938rem 0.938rem 0.938rem; font-size: 1rem; font-weight: 300; letter-spacing: -0.06rem; line-height: 1.3rem; text-align: left; color: #3f4165ab; }
-
+.modal-body img {width: 450px;};
 /* padding & margin  */
 .pt { padding-top: 6.25rem; } /* 섹션 구분 100px */
 .px { padding-top: 1.063rem; padding-bottom: 1.063rem; } /* 테이블 상하 여백 17px */
